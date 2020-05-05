@@ -1,0 +1,8 @@
+class Bob extends BaseClass {
+    constructor(x, y, width, height){
+      super(x,y,width,height);
+      this.image = loadImage("sprites/destruct.png");
+    }
+  
+  };
+  
